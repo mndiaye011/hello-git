@@ -1,0 +1,4 @@
+nom : NDIAYE
+âge : 26
+sexe : F
+taille : 1m58
